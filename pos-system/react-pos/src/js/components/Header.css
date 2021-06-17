@@ -1,0 +1,23 @@
+/* Class */
+.nav-menu {
+    width: 100%;
+    background-color: #111;
+    color: white;
+    padding: 10px;
+}
+
+.lead {
+  height: 0;
+  overflow: hidden;
+  list-style-type: none;
+  font-weight: bold;
+  color: white
+}
+
+.show-nav {
+    height: 120px;
+}
+
+a {
+    color: hotpink;
+  }
